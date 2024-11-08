@@ -4,6 +4,8 @@ Soy un **desarrollador** apasionado por la tecnología, la innovación y el cód
 
 ## 🌱 Actualmente estoy aprendiendo
 
+- **C++**
+- **C**
 - **React**
 - **Node.js**
   
@@ -33,15 +35,14 @@ Mis principales herramientas y tecnologías incluyen:
 
 Aquí tienes algunos de los proyectos que he creado y que están disponibles en GitHub:
 
-- [Proyecto 1](https://github.com/M4teoSandoval/website ) - Breve descripción de lo que hace.
-- [Proyecto 2](https://github.com/tuusuario/proyecto2) - Breve descripción de lo que hace.
-- [Proyecto 3](https://github.com/tuusuario/proyecto3) - Breve descripción de lo que hace.
+- [Proyecto 1](https://github.com/M4teoSandoval/website-sweet-shop) - Sitio web de una dulceria.
+
 
 ---
 
 ### 🔧 Acerca de mí
 
-Me encanta enfrentar desafíos y siempre busco maneras de mejorar mis habilidades. Me motiva aprender algo nuevo cada día y trabajar en proyectos interesantes. ¡Estoy abierto/a a colaborar y a crecer junto a otros desarrolladores!
+Me encanta enfrentar desafíos y siempre busco maneras de mejorar mis habilidades. Me motiva aprender algo nuevo cada día y trabajar en proyectos interesantes. ¡Estoy abierto a colaborar y a crecer junto a otros desarrolladores!
 
 ---
 
