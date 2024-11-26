@@ -29,7 +29,7 @@ Mis principales herramientas y tecnologías incluyen:
 ## 📫 Cómo contactarme
 
 - **Correo electrónico**: [ksandoval712@unab.edu.co](ksandoval712@unab.edu.co)
-- **Twitter**: [@tuusuario](https://twitter.com/tuusuario)
+
 
 ## 📝 Algunos de mis repositorios
 
