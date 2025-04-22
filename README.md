@@ -1,14 +1,4 @@
-# ¡Hola, soy Mateo! 
 
-Soy un **desarrollador** apasionado por la tecnología, la innovación y el código. Mi objetivo es siempre aprender, crear y mejorar en el camino. Aquí encontrarás algunos de mis proyectos y contribuciones.
-
-## 🌱 Actualmente estoy aprendiendo
-
-- **C++**
-- **C**
-- **React**
-- **Node.js**
-  
 
 ## 🛠️ Tecnologías y herramientas
 
