@@ -30,9 +30,3 @@ Aquí tienes algunos de los proyectos que he creado y que están disponibles en 
 
 ---
 
-### 🔧 Acerca de mí
-
-Me encanta enfrentar desafíos y siempre busco maneras de mejorar mis habilidades. Me motiva aprender algo nuevo cada día y trabajar en proyectos interesantes. ¡Estoy abierto a colaborar y a crecer junto a otros desarrolladores!
-
----
-
